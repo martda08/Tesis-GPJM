@@ -16,5 +16,5 @@ paramétrico, basado en los modelos de variables latentes y regresión mediante 
 gaussianos, donde se consideran relaciones espaciales y temporales. En esta tesis nos
 concentraremos en el análisis y desarrollo de este enfoque mediante un ejercicio de
 simulación que nos permitirá poner a prueba en modelo y un experimento con datos
-reales donde se proponen algunas variantes del modelo con el n de encontrar aquel
+reales donde se proponen algunas variantes del modelo con el fín de encontrar aquel
 que sea el más adecuado a los datos.
